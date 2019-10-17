@@ -15,7 +15,7 @@ public class UserTest extends TestCase {
 	}
 
 	public void testGetFullName() {
-		assertEquals("Chychkanov Volodymy", user.getFullName());
+		assertEquals("Chychkanov Volodymyr", user.getFullName());
 	}
 	
 	public void testGetAge() {
